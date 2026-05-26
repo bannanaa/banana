@@ -11,6 +11,7 @@
 | — | — | — | 5/7 ✅ | 5/8 ✅ | 5/9 | 5/10 |
 | 5/11 | 5/12 ✅ | 5/13 ✅ | 5/14 ✅ | 5/15 ✅ | 5/16 | 5/17 |
 | 5/18 | 5/19 | 5/20 ✅ | 5/21 ✅ | 5/22 | 5/23 | 5/24 |
+| 5/25 | 5/26 ✅ | 5/27 | 5/28 | 5/29 | 5/30 | 5/31 |
 
 ✅ = 공부 완료 | ⬜ = 미완 | ❌ = 건너뜀
 
@@ -25,6 +26,7 @@
 | 01 | Sports facilities & public health | 5/7 | 5/8 | ✅ 완료 | [바로가기](writing/2026-05-07_task2_01.md) |
 | 02 | Compulsory community service in high school | 5/12 | 5/15 | ✅ 완료 | [바로가기](writing/2026-05-12_task2_02.md) |
 | 03 | Technology & social isolation | 5/20 | 5/21 | ✅ 완료 | [바로가기](writing/2026-05-15_task2_03.md) |
+| 04 | Public transportation vs roads | 5/26 | 5/26 | ✅ 완료 | [바로가기](writing/2026-05-21_task2_04.md) |
 
 **목표: 문제 1개당 최대 2일** (1일차: 작성+첨삭 / 2일차: 개선버전 직접 다시 쓰기)
 
@@ -58,7 +60,7 @@
 
 | 월 | 목표 문제 수 | 완료 | 공부일 |
 |----|------------|------|--------|
-| 2026년 5월 | 8개 | 3개 | 8일 |
+| 2026년 5월 | 8개 | 4개 | 9일 |
 | 2026년 6월 | 10개 | — | — |
 
 ---
@@ -71,3 +73,4 @@
 | 01 | Sports facilities & public health | 5/8 | Band 6.0 예상 |
 | 02 | Compulsory community service in high school | 5/15 | Band 5.5 예상 |
 | 03 | Technology & social isolation | 5/21 | Band 5.5 예상 |
+| 04 | Public transportation vs roads | 5/26 | Band 5.5 예상 |
