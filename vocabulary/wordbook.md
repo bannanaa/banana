@@ -24,3 +24,27 @@
 - `contend` vs `argue` — 같은 뜻, 번갈아 쓸 것
 - `solely` = only 의 격식체 버전 → IELTS에서 `only` 대신 쓰면 좋음
 - `affordable` = cheap의 격식체 → `cheap` 대신 항상 이걸로
+
+---
+
+## 2026-06-12 (Task2 06 — Prison sentences & rehabilitation)
+
+| 단어/표현 | 뜻 | 예문 |
+|----------|-----|------|
+| `deter` / `deterrent` (v/n) | 억제하다 / 억제 수단 | *Longer sentences may act as a deterrent to potential offenders.* |
+| `incarceration` (n) | 수감, 구금 | *Extended incarceration alone does not reduce reoffending.* |
+| `recidivism` (n) | 재범(률) | *Research on recidivism suggests rehabilitation is more effective.* |
+| `reoffend` (v) | 재범하다 | *Prisoners with mental health issues are more likely to reoffend.* |
+| `rehabilitate` / `rehabilitation` (v/n) | 교화하다 / 재활 | *Prisons should focus on rehabilitating offenders.* |
+| `reintegrate into society` (표현) | 사회에 재통합하다 | *Education helps prisoners reintegrate into society after release.* |
+| `address the root cause` (표현) | 근본 원인을 해결하다 | *Longer sentences alone do not address the root cause of crime.* |
+| `prior convictions` (표현) | 전과 | *Those with no prior convictions are less likely to reoffend.* |
+| `tackle crime at its root` (표현) | 범죄를 근본부터 해결하다 | *We must tackle crime at its root through education.* |
+| `vocational training` (표현) | 직업 훈련 | *Vocational training in prison improves employment prospects upon release.* |
+
+---
+
+### 헷갈리기 쉬운 것
+- `deter` vs `prevent` — deter는 심리적 억제, prevent는 물리적 방지
+- `recidivism` 발음 — [rɪˈsɪdɪvɪzəm] 외워두기, IELTS 고득점 어휘
+- `rehabilitate` = "교화하다" — `educate`와 함께 세트로 쓸 것 (`educate and rehabilitate`)
